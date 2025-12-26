@@ -298,8 +298,8 @@ ros2 action list
 
 ## 👥 개발팀
 
-- **Korea University Robotics Lab**
-- 졸업 프로젝트 2024-2025
+- **Doosan Robotics BootCamp 5기**
+- 협동1 프로젝트 2025
 
 ## 📄 라이선스
 
