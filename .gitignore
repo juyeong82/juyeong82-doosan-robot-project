@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# ROS2
+build/
+install/
+log/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Sensitive files
+*.json
+!package.json
+*.key
+*.pem
+*.env
+*firebase-adminsdk*.json
+firebase*.html
+
+# Archives
+*.zip
+*.tar.gz
