@@ -6,7 +6,7 @@
 
 ## 🎬 프로젝트 시연 영상 (Demo)
 
-> *로봇이 키오스크 주문을 인식하고, 햄버거와 음료를 트레이에 세팅하는 시연 영상입니다.*
+> *로봇이 명령을 받고 표면처리 3단계 가공을 순차적으로 진행하는 시연 영상입니다.*
 
 [![Demo Video](http://img.youtube.com/vi/G6TT7DP7kS4/0.jpg)](https://youtu.be/G6TT7DP7kS4)
 
